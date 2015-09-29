@@ -1,5 +1,12 @@
 Create a new file named "config.json" using "config_example.json" as a reference.
 
-To use, simply run the script from whatever directory you cloned the repo into and pass your command as a sysarg.
+To use, simply run the script from whatever directory you cloned the repo into and pass your command as an arg
 
 For example, "./slackcatcher.py /super/important/script.py -t 1"
+
+Config:
+	webhook_url: This is the url for your slack webhook.
+	channel (optional): Whatever you want your bot to send messages to. For example, #general to send to the general channel or @bob to send to the user bob.
+	username (optional): Username for the bot
+	icon_emoji (optional): Local emoji for bot, for example :monkey:
+	icon_url (optional): Url for the emoji to use
