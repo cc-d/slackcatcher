@@ -1,0 +1,7 @@
+{
+	"webhook_url":"https://hooks.slack.com/services/XXXXXX/XXXXXXXXXXXXXX",
+	"channel":"YourChannelOrUser",
+	"username":"YourBotUsername",
+	"icon_url":"https://slack.com/your/slack/icon",
+	"icon_emoji":":YourEmoji"	
+}

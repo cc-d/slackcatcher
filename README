@@ -1,0 +1,5 @@
+Create a new file named "config.json" using "config_example.json" as a reference.
+
+To use, simply run the script from whatever directory you cloned the repo into and pass your command as a sysarg.
+
+For example, "./slackcatcher.py /super/important/script.py -t 1"
